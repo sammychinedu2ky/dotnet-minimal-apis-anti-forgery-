@@ -1,0 +1,6 @@
+# add non important c# files into my gitignore
+/obj
+/bin
+*.user
+.vscode
+.vs
